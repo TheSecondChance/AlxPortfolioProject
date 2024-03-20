@@ -1,11 +1,11 @@
 # Hoji Gari Furniture   
 
 ## Vist Portfolio
-**Go to:** 
- 
-    ```
-    https://hojigari.get-alpha.tech/
-    ```  
+1. **Go to:**
+   
+   ```
+   https://hojigari.get-alpha.tech/
+   ```
 ## Installation
 
 
@@ -14,6 +14,7 @@
    ```
    git clone https://github.com/TheSecondChance/AlxPortfolioProject.git
    ```
+
 2. **Navigate to Project**
    
    ```
