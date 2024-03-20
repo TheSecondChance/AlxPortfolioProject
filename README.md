@@ -1,6 +1,6 @@
 # Hoji Gari Furniture   
 
-## Vist Project 
+**Vist Project:** 
     ```
     https://hojigari.get-alpha.tech/
     ```
