@@ -1,6 +1,6 @@
 # Hoji Gari Furniture   
 
-## Vist Portfolio
+## Vist Portfolio web application
 1. **Go to:**
    
    ```
